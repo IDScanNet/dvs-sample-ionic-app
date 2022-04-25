@@ -1,0 +1,7 @@
+{
+  "name": "dvs-sample-ionic-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
